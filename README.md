@@ -4,7 +4,7 @@
 Select one Data Challenge using Python Pandas. 
 
 ## Heroes of Pymoli 
-Independnet gaming company needs data analyzation of their most recent fantasy game Heroes of Pymoli. 
+Independent gaming company needs data analyzation of their most recent fantasy game Heroes of Pymoli. 
 
 ### Tasks
 1) Player Count
