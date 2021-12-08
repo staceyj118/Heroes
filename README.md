@@ -1,16 +1,12 @@
-# pandas-challenge
-
-# Background: 
-Select one Data Challenge using Python Pandas. 
-
-## Heroes of Pymoli 
+# Heroes of Pymoli
+ 
 Independent gaming company needs data analyzation of their most recent fantasy game Heroes of Pymoli. 
 
 ### Tasks
 1) Player Count
     * Total number of players
 
-![](https://github.com/staceyj118/pandas-challenge/blob/main/Images/PlayerCount.PNG?raw=true)
+![](https://github.com/staceyj118/pandas/blob/main/Images/PlayerCount.PNG?raw=true)
 
 
 2) Purchasing Analysis
@@ -19,7 +15,7 @@ Independent gaming company needs data analyzation of their most recent fantasy g
     * Total Number of Purchases
     * Total Revenue
 
-![](https://github.com/staceyj118/pandas-challenge/blob/main/Images/PurchaseTotal.PNG?raw=true)
+![](https://github.com/staceyj118/pandas/blob/main/Images/PurchaseTotal.PNG?raw=true)
 
 
 3) Gender Demographics 
@@ -27,7 +23,7 @@ Independent gaming company needs data analyzation of their most recent fantasy g
     * Percentage and Count of Female Players
     * Percentage and Count of Other / Non-Disclosed
 
-![](https://github.com/staceyj118/pandas-challenge/blob/main/Images/GenderDemographics.PNG?raw=true)
+![](https://github.com/staceyj118/pandas/blob/main/Images/GenderDemographics.PNG?raw=true)
 
 
 4) Purchasing Analysis (Gender)
@@ -37,7 +33,7 @@ Independent gaming company needs data analyzation of their most recent fantasy g
     * Total Purchase Value
     * Average Purchase Total per Person by Gender
 
-![](https://github.com/staceyj118/pandas-challenge/blob/main/Images/PurchaseGender.PNG?raw=true)
+![](https://github.com/staceyj118/pandas/blob/main/Images/PurchaseGender.PNG?raw=true)
 
 
 5) Age Demographics
@@ -47,7 +43,7 @@ Independent gaming company needs data analyzation of their most recent fantasy g
     * Total Purchase Value
     * Average Purchase Total per Person by Age Group
 
-![](https://github.com/staceyj118/pandas-challenge/blob/main/Images/AgeDemographics.PNG?raw=true)
+![](https://github.com/staceyj118/pandas/blob/main/Images/AgeDemographics.PNG?raw=true)
 
 
 6) Top Spenders
@@ -57,7 +53,7 @@ Independent gaming company needs data analyzation of their most recent fantasy g
     * Average Purchase Price
     * Total Purchase Value
 
-![](https://github.com/staceyj118/pandas-challenge/blob/main/Images/TopSpenders.PNG?raw=true)
+![](https://github.com/staceyj118/pandas/blob/main/Images/TopSpenders.PNG?raw=true)
 
 
 7) Most Popular Items
@@ -68,7 +64,7 @@ Independent gaming company needs data analyzation of their most recent fantasy g
     * Item Price
     * Total Purchase Value
 
-![](https://github.com/staceyj118/pandas-challenge/blob/main/Images/MostPopularItem.PNG?raw=true)
+![](https://github.com/staceyj118/pandas/blob/main/Images/MostPopularItem.PNG?raw=true)
 
 
 8) Most Profitable Items
@@ -79,7 +75,7 @@ Independent gaming company needs data analyzation of their most recent fantasy g
     * Item Price
     * Total Purchase Value
 
-![](https://github.com/staceyj118/pandas-challenge/blob/main/Images/MostProfitableItem.PNG?raw=true)
+![](https://github.com/staceyj118/pandas/blob/main/Images/MostProfitableItem.PNG?raw=true)
 
 
 ### Conclusions 
